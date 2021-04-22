@@ -3,7 +3,7 @@
     "name": "Bookshelf",
     "slug": "bookshelf",
     "privacy": "public",
-    "sdkVersion": "33.0.0",
+    "sdkVersion": "38.0.0",
     "platforms": [
       "ios",
       "android",
@@ -25,7 +25,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "",
+    "description": "Projet recommandation de livres",
     "githubUrl": "https://github.com/trimok/expo.git"
   }
 }
