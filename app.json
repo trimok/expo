@@ -3,7 +3,6 @@
     "name": "Bookshelf",
     "slug": "bookshelf",
     "privacy": "public",
-    "sdkVersion": "38.0.0",
     "platforms": [
       "ios",
       "android",
